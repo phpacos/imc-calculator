@@ -1,3 +1,3 @@
 # IMC CALCULATOR
 
-A simple HTML/CSS/JS file that applies simple concepts for a functional imc calculator.
+Um aplicativo simples de cálculo de IMC para aplicar conceitos básicos de HTML/CSS/JS.
